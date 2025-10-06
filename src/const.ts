@@ -23,11 +23,11 @@ export const WEDDING_HALL_POSITION = [126.9594982, 37.4657134]
 export const NMAP_PLACE_ID = 13321741
 export const KMAP_PLACE_ID = 8634826
 
-export const BRIDE_FULLNAME = "정지원"
-export const BRIDE_FIRSTNAME = "지원"
-export const BRIDE_TITLE = "장녀"
-export const BRIDE_FATHER = "정상원"
-export const BRIDE_MOTHER = "박윤정"
+export const BRIDE_FULLNAME = "유희수"
+export const BRIDE_FIRSTNAME = "희수"
+export const BRIDE_TITLE = "차녀"
+export const BRIDE_FATHER = "유종문"
+export const BRIDE_MOTHER = "임미경"
 export const BRIDE_INFO = [
   {
     relation: "신부",
@@ -49,11 +49,11 @@ export const BRIDE_INFO = [
   },
 ]
 
-export const GROOM_FULLNAME = "남주호"
-export const GROOM_FIRSTNAME = "주호"
-export const GROOM_TITLE = "차남"
-export const GROOM_FATHER = "남현태"
-export const GROOM_MOTHER = "김현영"
+export const GROOM_FULLNAME = "김윤하"
+export const GROOM_FIRSTNAME = "윤하"
+export const GROOM_TITLE = "장남"
+export const GROOM_FATHER = "김선종"
+export const GROOM_MOTHER = "윤지애"
 export const GROOM_INFO = [
   {
     relation: "신랑",

@@ -1,11 +1,11 @@
 {
+  "homepage": "https://yuheesu.github.io/wedding-invitation",
   "name": "wedding-invitation",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A wedding invitation web page template",
   "author": "Yu Hee Su <uheesu0720@gmail.com> (https://yuheesu.github.io/)",
   "license": "MIT",
   "private": true,
-  "homepage": "https://yuheesu.github.io/wedding-invitation",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

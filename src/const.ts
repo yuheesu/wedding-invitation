@@ -9,11 +9,11 @@ dayjs.locale("ko")
 
 export { dayjs }
 
-export const WEDDING_DATE = dayjs.tz("2024-08-24 13:00", "Asia/Seoul")
+export const WEDDING_DATE = dayjs.tz("2026-03-07 12:30", "Asia/Seoul")
 export const HOLIDAYS = [15]
 
-export const LOCATION = "서울대학교 연구공원 웨딩홀"
-export const LOCATION_ADDRESS = "서울시 관악구 관악로 1, 연구공원 본관 1층"
+export const LOCATION = "서울 그랜드컨벤션센터 그랜드홀"
+export const LOCATION_ADDRESS = "서울 영등포구 양평로 58 그랜드컨벤션센터, 3층 그랜드홀"
 
 export const SHARE_ADDRESS = LOCATION
 export const SHARE_ADDRESS_TITLE = LOCATION
@@ -51,7 +51,7 @@ export const BRIDE_INFO = [
 
 export const GROOM_FULLNAME = "김윤하"
 export const GROOM_FIRSTNAME = "윤하"
-export const GROOM_TITLE = "장남"
+export const GROOM_TITLE = "아들"
 export const GROOM_FATHER = "김선종"
 export const GROOM_MOTHER = "윤지애"
 export const GROOM_INFO = [

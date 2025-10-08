@@ -14,7 +14,7 @@ import {
 
 const distFolder = "build"
 
-const base = "/wedding-invitation/"
+let base = "/wedding-invitation/"
 
 //try {
   //const url = new URL(pkg.homepage)
@@ -33,7 +33,7 @@ export default defineConfig({
         data: {
           GROOM_FULLNAME,
           BRIDE_FULLNAME,
-          DESCRIPTION: `${WEDDING_DATE.format("M월 D일 A h시")} ${LOCATION}`,
+          DESCRIPTION: `${WEDDING_DATE.format("M월 D일 A h시 mm분")} ${LOCATION}`,
         },
       },
     }),
